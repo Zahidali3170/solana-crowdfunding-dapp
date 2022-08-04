@@ -1,0 +1,14 @@
+[features]
+seeds = false
+[programs.devnet]
+solana_crowdfunding_dapp = "Dy8b9Y5517w93arqDb8rhSDb2M1pFT64BFNF5oqsEK9C"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "./id.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"

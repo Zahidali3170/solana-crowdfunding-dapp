@@ -1,0 +1,1 @@
+/home/zahid/Desktop/crowdfunding-solana/solana-crowdfunding-pda-dapp/target/bpfel-unknown-unknown/release/libsolana_crowdfunding_dapp.rlib: /home/zahid/Desktop/crowdfunding-solana/solana-crowdfunding-pda-dapp/programs/solana-crowdfunding-dapp/src/lib.rs
